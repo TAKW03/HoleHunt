@@ -11,7 +11,7 @@ public class mouse : MonoBehaviour {
 
     private Camera cam;
 
-    private float distance = 100.0f;
+    private float distance = 10.0f;
     private float currentX = 4.0f;
     private float currentY = 1.0f;
 	// Use this for initialization
